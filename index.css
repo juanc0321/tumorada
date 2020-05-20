@@ -235,23 +235,28 @@ align-items: center;
       }
       .icon-instagram{
         color: white;
-        font-size: 16px;
+        font-size: 19px;
         text-decoration: none;
+       
       }
       .icon-phone{
         color: white;
-        font-size: 16px;
+        font-size: 19px;
         text-decoration: none;
+       
       }
       .icon-facebook{
         color: white;
-        font-size: 16px;
+        font-size: 19px;
         text-decoration: none;
+        
+
       }
       .icon-mail{
         color: white;
-        font-size: 16px;
+        font-size: 19px;
         text-decoration: none;
+       
       } 
      
       
