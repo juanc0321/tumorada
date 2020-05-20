@@ -233,6 +233,26 @@ align-items: center;
       #card-text{
         font-size: 0.9rem;
       }
+      .icon-instagram{
+        color: white;
+        font-size: 16px;
+        text-decoration: none;
+      }
+      .icon-phone{
+        color: white;
+        font-size: 16px;
+        text-decoration: none;
+      }
+      .icon-facebook{
+        color: white;
+        font-size: 16px;
+        text-decoration: none;
+      }
+      .icon-mail{
+        color: white;
+        font-size: 16px;
+        text-decoration: none;
+      } 
      
       
     }
