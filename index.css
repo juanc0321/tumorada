@@ -224,7 +224,12 @@ align-items: center;
       
         
       }
-    
+      #footer{
+        font-size: 1px;
+      }
+      #catalogo{
+        margin-top: 0;
+      }
      
       
     }
