@@ -230,6 +230,9 @@ align-items: center;
       #catalogo{
         margin-top: 0;
       }
+      #card-text{
+        font-size: 0.9rem;
+      }
      
       
     }
