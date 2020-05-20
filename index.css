@@ -217,6 +217,13 @@ align-items: center;
         position: initial;
         width: 100% !important;
       }
+      #nosotros1{
+        margin-top: 0px;
+      
+        object-fit: cover;
+      
+        
+      }
     
      
       
