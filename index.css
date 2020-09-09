@@ -382,6 +382,7 @@ align-items: center;
 
       #botoncompra{
         font-size: 1em;
+        margin-bottom: 5px;
       }
       #botoncompra h3{
         font-size: 1em;
