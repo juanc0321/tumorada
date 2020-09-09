@@ -13,6 +13,62 @@ body {
   font-style: normal;
   font-display: block;
 }
+#ultimasunidades {
+
+  text-align: center;
+  margin-bottom: -30px;
+  font-style: italic;
+  z-index: 4;
+  font-size: 100%;
+}
+#ultimasunidades p {
+
+  
+ margin-top: -10px;
+ color: #007bff;
+ 
+}
+#ultimasunidades {
+  
+  color: #007bff;
+}
+#certificados {
+  
+  text-align: center;
+  margin-bottom: 15px;
+}
+#certificados img {
+  width: 35vw;
+  justify-items: center;
+  
+}
+#botoncompra {
+  font-size: 1em;
+ 
+  text-align: center;
+  margin-top: -45px;
+  background-color: #7dc525;
+  z-index: 15;
+  border-radius: 5px;
+  color: white;
+  
+  
+  padding-bottom: 10px;
+}
+#botoncompra h3 {
+
+  text-align: center;
+ 
+  
+}
+#botoncompra h2 {
+  
+  text-align: center;
+}
+
+.container{
+  background-image: url(https://www.facebook.com/depapayitatiendaonline/photos/a.102113484880685/150240046734695);
+}
 
 [class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
@@ -59,6 +115,7 @@ body {
 }    
 .main{
   padding: 20px;
+  height: 70vh;
 }
 
 .main .carousel-inner img{
@@ -183,7 +240,24 @@ align-items: center;
   @media screen and (max-width: 900px) {
     #card-text{
       font-size: 80%;
-    }}
+    }
+  
+  #certificados{
+    margin-bottom: 20px;
+  }
+
+  #botondecompra{
+    font-size: 0.75em;
+  }
+  #botones{
+    margin-top: 10px;
+  }
+  
+  
+  
+  
+  
+  }
     
     
     @media screen and (max-width: 900px) {
@@ -211,8 +285,33 @@ align-items: center;
         font-size: 22px;
         text-decoration: none;
       }  
+      #botones{
+        margin-top: 5px;
+      }
       
+      #certificados{
+        margin-bottom: 20px;
+      }
+      #certificados img {
+        width: 45vw;
+        justify-items: center;
+        margin-top: 0px;
+                
+      }
+
+      #botoncompra{
+        font-size: 1em;
+      }
+      #botoncompra h3{
+        font-size: 1em;
+      }
+      #botoncompra h2{
+        font-size: 1em;
+      }
       
+      #botoncompra p{
+        font-size: 0.75em;
+      }
      
       
     }
@@ -220,6 +319,9 @@ align-items: center;
       #card1{
         position: initial;
         width: 100% !important;
+      }
+      #botones{
+        margin-top: 7px;
       }
       #nosotros1{
         margin-top: 0px;
@@ -265,7 +367,43 @@ align-items: center;
       #row{
         margin-top: 7px;
       }
-     
+      #certificados img {
+        width: 90vw;
+        justify-items: center;
+        
+        
+      }
+      #certificados {
+        margin-top: 5px;
+      }
+     #botones{
+        margin-top: 7px;
+      }
+
+      #botoncompra{
+        font-size: 1em;
+      }
+      #botoncompra h3{
+        font-size: 1em;
+      }
+      #botoncompra h2{
+        font-size: 1em;
+      }
+      
+      #botoncompra p{
+        font-size: 0.75em;
+      }
+      #main{
+
+        margin-bottom: -150px;
+
+      }
+      
+
+      
+
+      
       
     }
+   
     /* medias */
