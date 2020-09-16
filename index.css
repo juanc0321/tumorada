@@ -1,5 +1,6 @@
 body {
   position: relative;
+  background-color: seashell;
  
 }
 
@@ -14,10 +15,14 @@ body {
   font-style: normal;
   font-display: block;
 }
-#piepagina{
-  height: 10px;
-  
+#titu{
+  height: 30px;
 }
+#caja{
+  he
+}
+
+
 #ultimasunidades {
 
   text-align: center;
@@ -29,7 +34,7 @@ body {
 #ultimasunidades p {
 
   
- margin-top: -10px;
+
  color: #007bff;
  
 }
@@ -40,7 +45,8 @@ body {
 #certificados {
   
   text-align: center;
-  margin-bottom: 15px;
+ 
+  
 }
 #certificados img {
   width: 35vw;
@@ -48,11 +54,9 @@ body {
   
 }
 #botoncompra {
-  font-size: 1em;
- 
-  text-align: center;
-  margin-top: -45px;
-  background-color: #7dc525;
+  font-size: 1em; 
+  text-align: center;  
+  background-color:#1041aa;
   z-index: 15;
   border-radius: 10px;
   color: white;
